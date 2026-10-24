@@ -285,14 +285,14 @@ All execution screenshots are stored in the `screenshots/` directory:
 
 | Screenshot | Description |
 |---|---|
-| ![Online Inference](screenshots/online_inference.png) | **Task 2: Online Inference Console Output** |
-| ![Batch Inference](screenshots/batch_inference.png) | **Task 3: Batch Inference Console Output** |
-| ![Streaming Inference](screenshots/streaming_inference.png) | **Task 4: Streaming Inference Console Output** |
-| ![Python Client Tests](screenshots/python_client_test.png) | **Task 5: Python Client Test Suite Output** |
-| ![Swagger Health](screenshots/fastapi_health_swagger.png) | **Task 5: Swagger UI GET /health Test (200 OK)** |
-| ![Swagger Predict Valid](screenshots/fastapi_predict_valid_swagger.png) | **Task 5: Swagger UI POST /predict Valid Test (200 OK)** |
-| ![Swagger Predict Invalid](screenshots/fastapi_predict_invalid_swagger.png) | **Task 5: Swagger UI POST /predict Invalid Test (422 Unprocessable)** |
-| ![Swagger Overview](screenshots/fastapi_swagger_overview.png) | **Task 5: Swagger UI Complete Overview (/docs)** |
+| ![Online Inference](online_inference.png) | **Task 2: Online Inference Console Output** |
+| ![Batch Inference](batch_inference.png) | **Task 3: Batch Inference Console Output** |
+| ![Streaming Inference](streaming_inference.png) | **Task 4: Streaming Inference Console Output** |
+| ![Python Client Tests](python_client_test.png) | **Task 5: Python Client Test Suite Output** |
+| ![Swagger Health](fastapi_health_swagger.png) | **Task 5: Swagger UI GET /health Test (200 OK)** |
+| ![Swagger Predict Valid](fastapi_predict_valid_swagger.png) | **Task 5: Swagger UI POST /predict Valid Test (200 OK)** |
+| ![Swagger Predict Invalid](fastapi_predict_invalid_swagger.png) | **Task 5: Swagger UI POST /predict Invalid Test (422 Unprocessable)** |
+| ![Swagger Overview](fastapi_swagger_overview.png) | **Task 5: Swagger UI Complete Overview (/docs)** |
 
 ---
 
